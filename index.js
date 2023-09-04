@@ -36,7 +36,7 @@ app.post('/insert',function(req,res){
 //JSON.stringify() Json형식으로 문서를 만들어주는 함수 성공시 test.json에 내용 들어옴
 
 
-app.listen(3030) //포트번호
+app.listen(3000) //포트번호
 
 
 
