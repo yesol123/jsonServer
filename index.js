@@ -22,9 +22,7 @@ const data = {
     return newData;
   },
   update:function(){},
-  delete:function(
-    
-
+  delete:function(                                                     
   ){}
 }
 
